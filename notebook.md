@@ -4,5 +4,18 @@
 Binary is zero or one
 Binary is a number system that uses zero and one 
 
+Binary Flippy-do/number system 
+Power: 2^7  2^6  2^5  2^4 2^3 2^2 2^1 2^0
+Value: 128  64   32   16  8  4   2   1
+       0    0    1   0   0   0   1   0
+Add up the values to get the answer:
+100010=34
+10100011= 163
+1111111=127
+11011011=219
+10101010= 170
+01000101=69
+00000100=4
+
 ## Day 2
 Notes for day 2
