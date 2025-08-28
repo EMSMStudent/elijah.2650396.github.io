@@ -16,6 +16,10 @@ Add up the values to get the answer:
 10101010= 170
 01000101=69
 00000100=4
+00111011
+0100111
+
+
 
 ## Day 2
 Notes for day 2
