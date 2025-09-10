@@ -13,6 +13,8 @@ My goals are to be a better basketball player than Lebron James
 
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/9bee9d1d-7681-4d52-86a5-6ee396b4b63f" />
 
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/6682471a-7843-4eab-b1ba-753927578e9d" />
+
 Click here to learn more → [About Me](about.md)
 
 ## Go to my coding notebook 
