@@ -21,5 +21,15 @@ Add up the values to get the answer:
 
 
 
-## Day 2
-Notes for day 2
+## 9/10/25
+Meta data is the details about the things 
+
+
+
+## Table of Contents
+- [Day 1](#day-1)
+  - [Notes](#notes)
+  - [Practice](#practice)
+- [Day 2](#day-2)
+
+[Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
