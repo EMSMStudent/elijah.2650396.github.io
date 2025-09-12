@@ -1,20 +1,25 @@
 # My Coding Notebook
+## Table of Contents
+- [Binary Notes](#binary-notes)
+  - [Binary Flippy-do](#binary-flippy-do-with-number-system)
+  - [Practice](#practice)
+- [Code Definitions](#code-definitions)
+[Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+
+
 
 ## 8-28-25 Unit 1 
 Binary is zero or one
 Binary is a number system that uses zero and one 
 
 ## Binary Notes 
-### Binary Flippy-do/number system 
+### Binary Flippy-do with number system 
 
+|Power:|2^7|2^6|2^5|2^4|2^3|2^2|2^1|2^0|solution|
+|-|-|-|-|-|-|-|-|-|-|
+|Value:|128|64|31|16|8|4|2|1
+|Binary: |1|0|1|0|0|0|1|1|
 
-
-
-
-
-Power: 2^7  2^6  2^5  2^4 2^3 2^2 2^1 2^0
-Value: 128  64   32   16  8  4   2   1
-       0    0    1   0   0   0   1   0
 Add up the values to get the answer:
 100010=34
 10100011= 163
@@ -30,51 +35,31 @@ Add up the values to get the answer:
 
 ## 9/10/25
 Meta data is the details about the things 
+## Code Definitions 
 
-
-
-## Table of Contents
-- [Day 1](#day-1)
-  - [Notes](#notes)
-  - [Practice](#practice)
-- [Day 2](#day-2)
-
-[Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
+|------|------------|--------------------------|-------------------|-------------|
+|      | A named container used to store a value that may change. | `var x = 5;` |  |  |
+|      | A fixed value that cannot change once set. | `const PI = 3.14;` |  |  |
+|      | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  |  |
+|      | A sequence of characters used to represent words or text. | `"Hello World"` |  |  |
+|      | Whole number values. | `int age = 16;` |  |  |
+|      | Number values with decimals. | `double age = 16.2;` |  |  |
+|      | A value that can be true or false. | `bool isLoggedIn = false;` |  |  |
+|      | A collection of values in a specific order. | `List<String> names = [];` |  |  |
+|      | A special value that means “nothing.” | `String? name = null;` |  |  |
+|      | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` |  |  |
+|      | The information passed into a function to change how it works. | `greet(String name)` |  |  |
+|      | The result a function gives back. | `return total;` |  |  |
+|      | Where a variable or function can be used. | (No set syntax — concept-based) |  |  |
+|      | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |  |  |
+|      | A specific version of a class. | `Dog myDog = Dog();` |  |  |
+|      | A variable that belongs to a class/object. | `String name;` |  |  |
+|      | A function that belongs to a class. | `void bark() {}` |  |  |
+|      | A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
+|      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
+|      | Changing how a built-in or inherited function behaves. | `@override` |  |  |
+|      | A function that does not return a value. | `void printMessage() {}` |  |  |
 
 
 
