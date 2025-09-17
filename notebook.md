@@ -1,9 +1,10 @@
 # My Coding Notebook
 ## Table of Contents
 - [Binary Notes](#binary-notes)
-  - [Binary Flippy-do](#binary-flippy-do-with-number-system)
+  - [Binary Coversion Table](#binary-conversion-table)
   - [Practice](#practice)
 - [Code Definitions](#code-definitions)
+- [Pseudocode and Java Table](pseudocode-java-reference)
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
 
