@@ -133,43 +133,10 @@ public static void greet(String name)
   }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+public static void sayHello()
+{
+  System.out.println ("Hello");
+}
 
 
 
